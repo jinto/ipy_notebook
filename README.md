@@ -2,11 +2,11 @@
 
 # ipython notebook install on mac
 
-python3 get-pip.py
-sudo pip3 install ipython
-sudo pip3 install "ipython[notebook]"
-sudo pip3 install pyzmq
-sudo pip3 install jinja2
-sudo pip3 install tornado
-ipython notebook
+  python3 get-pip.py
+  sudo pip3 install ipython
+  sudo pip3 install "ipython[notebook]"
+  sudo pip3 install pyzmq
+  sudo pip3 install jinja2
+  sudo pip3 install tornado
+  ipython notebook
 
